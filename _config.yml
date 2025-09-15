@@ -1,5 +1,25 @@
-title: Portfolio of Elkuqi
-description: My IT projects
+title: "Elkuqi — Portfolio"
+description: "My IT projects"
+
 show_downloads: true
 google_analytics:
+
+baseurl: ""
+url: "https://elkuqii.github.io/portfolio.github.io/"  # vaihda omaan
 theme: jekyll-theme-hacker
+
+# Ota käyttöön "projects" kokoelma
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Mahdollinen navigaatio (jos tema käyttää tätä)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+
