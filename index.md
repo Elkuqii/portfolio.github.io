@@ -6,7 +6,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Welcome to my project page! Here you can find some IT stuff that I have been working on. Most relate to **Cybersecurity**, but there will be other things too...
+
+_Explore and see for yourself :)_ 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
